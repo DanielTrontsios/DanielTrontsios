@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel(@JokTronki)
+- 👋 Hi, I’m Daniel(@DanielTrontsios)
 - 👀 I’m interested in FullStack Web Developemnt mainly in Vue
 - 🌱 I’m currently learning the Salesforce Platform
 <!-- - 💞️ I’m looking to collaborate on anything  -->
